@@ -1,0 +1,54 @@
+
+	body {
+	background-color: #f9e789;
+	margin: 0 15%;
+	font-family: sans-serif;
+	}
+		
+	h1 {
+		text-align: center;
+		font-family: 'Cinzel', serif;
+		font-weight: bold;
+		text-transform: uppercase;
+		border-bottom: 4px solid #D0724E;
+		margin-top: 30px;
+		}
+		
+	h2 {
+		color: #D0724E;
+		font-family: 'Cinzel', serif;
+		font-weight: bold;
+		font-size: 1.5 em;
+		}
+	
+	p {font-size: large; 
+		font-family:'Noto Sans SC', sans-serif;
+		color: #211946;
+		}
+	
+	p, ul, li, a {font-color: #6a65ab;
+		list-style-image: url(/images/spoon.gif);
+		list-style-type: disc;
+		list-style-position: outside;
+	}
+	
+	li {text-indent:1em;
+		}
+		
+	dt {font-family: 'Cinzel', serif;
+		font-weight: bold;
+		text-transform: uppercase;
+		font-variant: large-caps;
+		}	
+		
+	p {test-align: left;
+		font-family:'Noto Sans SC', sans-serif;
+		}	
+		
+	strong {font-family: 'Cinzel', serif};
+		{font-color: #D0724E }
+	
+	a:link {color: black;
+		}
+	a:visited {color: blue;
+		}
